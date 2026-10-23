@@ -18,7 +18,7 @@ Known uuids are never rewritten; an amendment is its own filing.
 
 ## Workflow
 
-`.github/workflows/scrape.yml` runs daily at 06:17 UTC and re-scans the last 60 days (late amendments), fetching
+`.github/workflows/scrape.yml` runs weekly on Mondays at 06:17 UTC and re-scans the last 60 days (late amendments), fetching
 detail pages only for unknown uuids. It makes 1 request per second.
 
 - Backfill: run the workflow manually with `from=2021-01-01`. It goes year by year and writes after each year, and the
