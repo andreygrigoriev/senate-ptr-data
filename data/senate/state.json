@@ -1,0 +1,7 @@
+{
+  "lastRunAt" : "2026-10-23T14:53:48.605326229Z",
+  "lastSuccessAt" : null,
+  "error" : "EfdUnavailableException: eFD answered 403 for /search/home/",
+  "backfilledFrom" : null,
+  "filings" : 0
+}
