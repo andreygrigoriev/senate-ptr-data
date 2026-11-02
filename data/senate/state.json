@@ -1,5 +1,5 @@
 {
-  "lastRunAt" : "2026-10-26T13:08:29.118371329Z",
+  "lastRunAt" : "2026-11-02T16:00:11.092158328Z",
   "lastSuccessAt" : null,
   "error" : "EfdUnavailableException: eFD answered 403 for /search/home/",
   "backfilledFrom" : null,
