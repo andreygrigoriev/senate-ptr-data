@@ -1,0 +1,1471 @@
+[ {
+  "uuid" : "028aef33-dc0d-44a1-992f-aa35ee42685b",
+  "firstName" : "A. Mitchell",
+  "lastName" : "McConnell, Jr.",
+  "office" : "McConnell, A. Mitchell Jr. (Senator)",
+  "filedDate" : "2026-09-21",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/028aef33-dc0d-44a1-992f-aa35ee42685b/",
+  "rows" : [ {
+    "rowNo" : 1,
+    "transactionDate" : "09/01/2026",
+    "owner" : "Spouse",
+    "ticker" : "WFC",
+    "assetName" : "Wells Fargo & Company Common Stock",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Dividend reinvestment"
+  } ]
+}, {
+  "uuid" : "02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c",
+  "firstName" : "Sheldon",
+  "lastName" : "Whitehouse",
+  "office" : "Whitehouse, Sheldon (Senator)",
+  "filedDate" : "2026-11-02",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/",
+  "rows" : [ {
+    "rowNo" : 2,
+    "transactionDate" : "10/15/2026",
+    "owner" : "Spouse",
+    "ticker" : "MSFT",
+    "assetName" : "Microsoft Corporation - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 1,
+    "transactionDate" : "10/15/2026",
+    "owner" : "Spouse",
+    "ticker" : "AMGN",
+    "assetName" : "Amgen Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Full)",
+    "amount" : "$15,001 - $50,000",
+    "comment" : null
+  } ]
+}, {
+  "uuid" : "0541be4f-4f96-4d84-8d6f-d349f218bb2a",
+  "firstName" : "John",
+  "lastName" : "Fetterman",
+  "office" : "Fetterman, John (Senator)",
+  "filedDate" : "2026-10-07",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/0541be4f-4f96-4d84-8d6f-d349f218bb2a/",
+  "rows" : [ {
+    "rowNo" : 2,
+    "transactionDate" : "09/16/2026",
+    "owner" : "Child",
+    "ticker" : null,
+    "assetName" : "DELL INTL LLC/EMC CORP Rate/Coupon: 5.6% Matures: 2033-09-15",
+    "assetType" : "Corporate Bond",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 1,
+    "transactionDate" : "09/15/2026",
+    "owner" : "Child",
+    "ticker" : null,
+    "assetName" : "DELL INTL LLC/EMC CORP Rate/Coupon: 5.6% Matures: 2033-09-15",
+    "assetType" : "Corporate Bond",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  } ]
+}, {
+  "uuid" : "0632f542-7ac2-46e4-bd9c-603e3673f0cd",
+  "firstName" : "John",
+  "lastName" : "Boozman",
+  "office" : "Boozman, John (Senator)",
+  "filedDate" : "2026-09-11",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
+  "rows" : [ {
+    "rowNo" : 5,
+    "transactionDate" : "08/27/2026",
+    "owner" : "Joint",
+    "ticker" : "OTIS",
+    "assetName" : "Otis Worldwide Corporation Common Stock",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 4,
+    "transactionDate" : "08/20/2026",
+    "owner" : "Joint",
+    "ticker" : "SPYM",
+    "assetName" : "Tradr 2X Long SPY Monthly ETF",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 3,
+    "transactionDate" : "08/19/2026",
+    "owner" : "Joint",
+    "ticker" : "IJR",
+    "assetName" : "iShares Core S&P Small-Cap ETF",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 2,
+    "transactionDate" : "08/19/2026",
+    "owner" : "Joint",
+    "ticker" : "AVUV",
+    "assetName" : "Avantis U.S. Small Cap Value ETF",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 1,
+    "transactionDate" : "08/13/2026",
+    "owner" : "Joint",
+    "ticker" : "FSLR",
+    "assetName" : "First Solar, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  } ]
+}, {
+  "uuid" : "0a93a20c-2a0f-4979-80ca-cc2f61297527",
+  "firstName" : "James Conley",
+  "lastName" : "Justice, II",
+  "office" : "Justice II,  James Conley (Senator)",
+  "filedDate" : "2026-09-28",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/0a93a20c-2a0f-4979-80ca-cc2f61297527/",
+  "rows" : [ {
+    "rowNo" : 1,
+    "transactionDate" : "08/14/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "Greenbrier Hotel Corporation and Affiliates Company: Greenbrier Hotel Corporation and Affiliates (White Sulphur Springs, WV) Description: Hospitality",
+    "assetType" : "Non-Public Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "Over $50,000,000",
+    "comment" : null
+  } ]
+}, {
+  "uuid" : "3ab689df-21ae-44c5-85ac-1f5e4bc8464d",
+  "firstName" : "David H",
+  "lastName" : "McCormick",
+  "office" : "McCormick, David H. (Senator)",
+  "filedDate" : "2026-10-29",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/3ab689df-21ae-44c5-85ac-1f5e4bc8464d/",
+  "rows" : [ {
+    "rowNo" : 19,
+    "transactionDate" : "10/19/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "FOX CHAPEL PA AREA SCH DIST GO BDS SER. 2017 Rate/Coupon: 5% Matures: 2042-02-01",
+    "assetType" : "Municipal Security",
+    "type" : "Sale (Full)",
+    "amount" : "$250,001 - $500,000",
+    "comment" : null
+  }, {
+    "rowNo" : 18,
+    "transactionDate" : "10/19/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "PHILADELPHIA PA AUTH FOR INDL DEV CITY Rate/Coupon: 5% Matures: 2036-05-01",
+    "assetType" : "Municipal Security",
+    "type" : "Sale (Full)",
+    "amount" : "$50,001 - $100,000",
+    "comment" : null
+  }, {
+    "rowNo" : 17,
+    "transactionDate" : "10/19/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "PITTSBURGH & ALLEGHENY CNTY PA SPORTS & EXHIB AUTH REV Rate/Coupon: 5% Matures: 2031-02-01",
+    "assetType" : "Municipal Security",
+    "type" : "Sale (Full)",
+    "amount" : "$250,001 - $500,000",
+    "comment" : null
+  }, {
+    "rowNo" : 16,
+    "transactionDate" : "10/13/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "DAUPHIN CNTY PA GO NTS SER. 2024B Rate/Coupon: 5% Matures: 2044-11-15",
+    "assetType" : "Municipal Security",
+    "type" : "Purchase",
+    "amount" : "$500,001 - $1,000,000",
+    "comment" : null
+  }, {
+    "rowNo" : 15,
+    "transactionDate" : "10/13/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "VERMONT EDL & HEALTH BLDGS FING AGY REV Rate/Coupon: 5% Matures: 2049-11-01",
+    "assetType" : "Municipal Security",
+    "type" : "Sale (Full)",
+    "amount" : "$250,001 - $500,000",
+    "comment" : null
+  }, {
+    "rowNo" : 14,
+    "transactionDate" : "10/08/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "ST JOSEPH CNTY INDIANA HOSP AUTH HOSP REV HOSP REV BDS BEACON HEALTH SYSTEM SER.2013C Rate/Coupon: 5% Matures: 2036-08-15",
+    "assetType" : "Municipal Security",
+    "type" : "Sale (Full)",
+    "amount" : "$100,001 - $250,000",
+    "comment" : null
+  }, {
+    "rowNo" : 13,
+    "transactionDate" : "10/08/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "DARIEN CONN GO BDS SER. 2020 Rate/Coupon: 5% Matures: 2028-08-01",
+    "assetType" : "Municipal Security",
+    "type" : "Sale (Full)",
+    "amount" : "$50,001 - $100,000",
+    "comment" : null
+  }, {
+    "rowNo" : 12,
+    "transactionDate" : "10/08/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "ESSEX CONN GO BDS SER. 2017 Rate/Coupon: 3% Matures: 2029-09-15",
+    "assetType" : "Municipal Security",
+    "type" : "Sale (Full)",
+    "amount" : "$250,001 - $500,000",
+    "comment" : null
+  }, {
+    "rowNo" : 11,
+    "transactionDate" : "10/08/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "HEMPFIELD PA SCH DIST LANCASTER CNTY Rate/Coupon: 5% Matures: 2051-04-15",
+    "assetType" : "Municipal Security",
+    "type" : "Purchase",
+    "amount" : "$500,001 - $1,000,000",
+    "comment" : null
+  }, {
+    "rowNo" : 10,
+    "transactionDate" : "10/08/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "MILFORD CONN GO REF BDS SER. 2021 Rate/Coupon: 5% Matures: 2031-11-01",
+    "assetType" : "Municipal Security",
+    "type" : "Sale (Full)",
+    "amount" : "$250,001 - $500,000",
+    "comment" : null
+  }, {
+    "rowNo" : 9,
+    "transactionDate" : "10/08/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "NEW YORK ST DORM AUTH ST PERS INCOME Rate/Coupon: 5% Matures: 2036-03-15",
+    "assetType" : "Municipal Security",
+    "type" : "Sale (Full)",
+    "amount" : "$100,001 - $250,000",
+    "comment" : null
+  }, {
+    "rowNo" : 8,
+    "transactionDate" : "10/01/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "STATE COLLEGE PA AREA SCH DIST GO Rate/Coupon: 5% Matures: 2044-05-15",
+    "assetType" : "Municipal Security",
+    "type" : "Purchase",
+    "amount" : "$500,001 - $1,000,000",
+    "comment" : null
+  }, {
+    "rowNo" : 7,
+    "transactionDate" : "10/08/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "UNIVERSITY CONN GO BDS SER. 2022 Rate/Coupon: 5% Matures: 2032-05-01",
+    "assetType" : "Municipal Security",
+    "type" : "Sale (Full)",
+    "amount" : "$250,001 - $500,000",
+    "comment" : null
+  }, {
+    "rowNo" : 6,
+    "transactionDate" : "10/07/2026",
+    "owner" : "Self",
+    "ticker" : null,
+    "assetName" : "PENNSYLVANIA ST TPK COMMN TPK REV BDS Rate/Coupon: 5% Matures: 2053-12-01",
+    "assetType" : "Municipal Security",
+    "type" : "Purchase",
+    "amount" : "$500,001 - $1,000,000",
+    "comment" : null
+  }, {
+    "rowNo" : 5,
+    "transactionDate" : "10/20/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$250,001 - $500,000",
+    "comment" : null
+  }, {
+    "rowNo" : 4,
+    "transactionDate" : "10/14/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$100,001 - $250,000",
+    "comment" : null
+  }, {
+    "rowNo" : 3,
+    "transactionDate" : "10/07/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$250,001 - $500,000",
+    "comment" : null
+  }, {
+    "rowNo" : 2,
+    "transactionDate" : "10/06/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "UNIV PITTSBURGH OF THE COMWLTH REV Rate/Coupon: 5% Matures: 2036-02-15",
+    "assetType" : "Municipal Security",
+    "type" : "Purchase",
+    "amount" : "$100,001 - $250,000",
+    "comment" : null
+  }, {
+    "rowNo" : 1,
+    "transactionDate" : "09/30/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "POTTSVILLE PA HOSP AUTH HOSP REV Rate/Coupon: 5% Matures: 2041-07-01",
+    "assetType" : "Municipal Security",
+    "type" : "Sale (Full)",
+    "amount" : "$100,001 - $250,000",
+    "comment" : null
+  } ]
+}, {
+  "uuid" : "6298991b-e48f-4b11-9bbb-dfc94a7e1b32",
+  "firstName" : "John",
+  "lastName" : "Boozman",
+  "office" : "Boozman, John (Senator)",
+  "filedDate" : "2026-09-11",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
+  "rows" : [ {
+    "rowNo" : 4,
+    "transactionDate" : "08/27/2026",
+    "owner" : "Joint",
+    "ticker" : "IVV",
+    "assetName" : "iShares Core S&P 500 ETF",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 3,
+    "transactionDate" : "08/20/2026",
+    "owner" : "Joint",
+    "ticker" : "JNJ",
+    "assetName" : "Johnson & Johnson Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 2,
+    "transactionDate" : "08/19/2026",
+    "owner" : "Joint",
+    "ticker" : "WWSYX",
+    "assetName" : "Westwood Quality SmallCap Fund - Westwood Quality SmallCap Fund Ultra Shares",
+    "assetType" : "Stock",
+    "type" : "Sale (Full)",
+    "amount" : "$15,001 - $50,000",
+    "comment" : null
+  }, {
+    "rowNo" : 1,
+    "transactionDate" : "08/13/2026",
+    "owner" : "Joint",
+    "ticker" : "CEG",
+    "assetName" : "Constellation Energy Corporation - Common Stock When-Issued",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  } ]
+}, {
+  "uuid" : "6aa5ccb2-ff27-491a-9314-778b9ab37964",
+  "firstName" : "Alan",
+  "lastName" : "Armstrong",
+  "office" : "Armstrong, Alan (Senator)",
+  "filedDate" : "2026-10-22",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/6aa5ccb2-ff27-491a-9314-778b9ab37964/",
+  "rows" : [ {
+    "rowNo" : 1,
+    "transactionDate" : "09/08/2026",
+    "owner" : "Joint",
+    "ticker" : "WMB",
+    "assetName" : "Williams Companies, Inc. (The) Common Stock Option Type: Call Strike price: $80.00 Expires: 2026-12-18",
+    "assetType" : "Stock Option",
+    "type" : "Sale (Full)",
+    "amount" : "$250,001 - $500,000",
+    "comment" : null
+  } ]
+}, {
+  "uuid" : "6bf3b6f7-9e1b-499a-bd5a-990292ce2e72",
+  "firstName" : "Sheldon",
+  "lastName" : "Whitehouse",
+  "office" : "Whitehouse, Sheldon (Senator)",
+  "filedDate" : "2026-10-01",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+  "rows" : [ {
+    "rowNo" : 5,
+    "transactionDate" : "09/04/2026",
+    "owner" : "Spouse",
+    "ticker" : "JPM",
+    "assetName" : "JP Morgan Chase & Co. Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$15,001 - $50,000",
+    "comment" : null
+  }, {
+    "rowNo" : 4,
+    "transactionDate" : "09/04/2026",
+    "owner" : "Spouse",
+    "ticker" : "ADI",
+    "assetName" : "Analog Devices, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 3,
+    "transactionDate" : "09/04/2026",
+    "owner" : "Spouse",
+    "ticker" : "V",
+    "assetName" : "Visa Inc.",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 2,
+    "transactionDate" : "09/04/2026",
+    "owner" : "Self",
+    "ticker" : "V",
+    "assetName" : "Visa Inc.",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 1,
+    "transactionDate" : "09/04/2026",
+    "owner" : "Self",
+    "ticker" : "JPM",
+    "assetName" : "JP Morgan Chase & Co. Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$15,001 - $50,000",
+    "comment" : null
+  } ]
+}, {
+  "uuid" : "7dfdae57-9401-4bf1-9059-85d1e5ee4a84",
+  "firstName" : "John",
+  "lastName" : "Boozman",
+  "office" : "Boozman, John (Senator)",
+  "filedDate" : "2026-10-21",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/",
+  "rows" : [ {
+    "rowNo" : 7,
+    "transactionDate" : "09/25/2026",
+    "owner" : "Joint",
+    "ticker" : "APTV",
+    "assetName" : "Aptiv PLC Ordinary Shares",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 6,
+    "transactionDate" : "09/24/2026",
+    "owner" : "Joint",
+    "ticker" : "MU",
+    "assetName" : "Micron Technology, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 5,
+    "transactionDate" : "09/21/2026",
+    "owner" : "Joint",
+    "ticker" : "TLH",
+    "assetName" : "iShares 10-20 Year Treasury Bond ETF",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 4,
+    "transactionDate" : "09/09/2026",
+    "owner" : "Joint",
+    "ticker" : "VEA",
+    "assetName" : "Vanguard Developed Markets Index Fund - ETF Shares",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 3,
+    "transactionDate" : "09/09/2026",
+    "owner" : "Joint",
+    "ticker" : "SPYM",
+    "assetName" : "Tradr 2X Long SPY Monthly ETF",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 2,
+    "transactionDate" : "09/09/2026",
+    "owner" : "Joint",
+    "ticker" : "EFA",
+    "assetName" : "iShares MSCI EAFE ETF",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 1,
+    "transactionDate" : "09/09/2026",
+    "owner" : "Joint",
+    "ticker" : "MU",
+    "assetName" : "Micron Technology, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  } ]
+}, {
+  "uuid" : "94c5f7b9-cdbc-40b4-aeba-de920da58588",
+  "firstName" : "John",
+  "lastName" : "Boozman",
+  "office" : "Boozman, John (Senator)",
+  "filedDate" : "2026-10-21",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
+  "rows" : [ {
+    "rowNo" : 10,
+    "transactionDate" : "09/24/2026",
+    "owner" : "Joint",
+    "ticker" : "CSCO",
+    "assetName" : "Cisco Systems, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 9,
+    "transactionDate" : "09/24/2026",
+    "owner" : "Joint",
+    "ticker" : "O",
+    "assetName" : "Realty Income Corporation Common Stock",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 8,
+    "transactionDate" : "09/21/2026",
+    "owner" : "Joint",
+    "ticker" : "XTWO",
+    "assetName" : "BondBloxx Bloomberg Two Year Target Duration US Treasury ETF",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 7,
+    "transactionDate" : "09/09/2026",
+    "owner" : "Joint",
+    "ticker" : "GIGB",
+    "assetName" : "Goldman Sachs Access Investment Grade Corporate Bond ETF",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 6,
+    "transactionDate" : "09/09/2026",
+    "owner" : "Joint",
+    "ticker" : "JMBS",
+    "assetName" : "Janus Henderson Mortgage-Backed Securities ETF",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 5,
+    "transactionDate" : "09/09/2026",
+    "owner" : "Joint",
+    "ticker" : "XFIV",
+    "assetName" : "BondBloxx Bloomberg Five Year Target Duration US Treasury ETF",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 4,
+    "transactionDate" : "09/09/2026",
+    "owner" : "Joint",
+    "ticker" : "MBB",
+    "assetName" : "iShares MBS ETF",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 3,
+    "transactionDate" : "09/09/2026",
+    "owner" : "Joint",
+    "ticker" : "IEF",
+    "assetName" : "iShares 7-10 Year Treasury Bond ETF",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 2,
+    "transactionDate" : "09/09/2026",
+    "owner" : "Joint",
+    "ticker" : "TLH",
+    "assetName" : "iShares 10-20 Year Treasury Bond ETF",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 1,
+    "transactionDate" : "09/09/2026",
+    "owner" : "Joint",
+    "ticker" : "CMBS",
+    "assetName" : "iShares CMBS ETF",
+    "assetType" : "Stock",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  } ]
+}, {
+  "uuid" : "9e2ff733-aeac-4ce8-872c-3d6b7913da88",
+  "firstName" : "Richard",
+  "lastName" : "Blumenthal",
+  "office" : "Blumenthal, Richard (Senator)",
+  "filedDate" : "2026-09-28",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/9e2ff733-aeac-4ce8-872c-3d6b7913da88/",
+  "rows" : [ {
+    "rowNo" : 33,
+    "transactionDate" : "09/11/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Other One LLC"
+  }, {
+    "rowNo" : 32,
+    "transactionDate" : "09/11/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of Hedge Holdings LLC"
+  }, {
+    "rowNo" : 31,
+    "transactionDate" : "09/11/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$50,001 - $100,000",
+    "comment" : "Underlying Asset of Summa I LLC"
+  }, {
+    "rowNo" : 30,
+    "transactionDate" : "09/11/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$50,001 - $100,000",
+    "comment" : "Underlying Asset of LarryMae Partners LLC"
+  }, {
+    "rowNo" : 29,
+    "transactionDate" : "09/11/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of 3M's Partners LLC"
+  }, {
+    "rowNo" : 28,
+    "transactionDate" : "09/11/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+  }, {
+    "rowNo" : 27,
+    "transactionDate" : "09/11/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$250,001 - $500,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+  }, {
+    "rowNo" : 26,
+    "transactionDate" : "09/11/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "Not Fade Away LLC Company: Not Fade Away LLC (New York, NY) Description: Hedge Fund",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$250,001 - $500,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 9 LLC"
+  }, {
+    "rowNo" : 25,
+    "transactionDate" : "08/27/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "Days Between LLC Company: Days Between LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of New Things Partners LLC"
+  }, {
+    "rowNo" : 24,
+    "transactionDate" : "08/27/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "Days Between LLC Company: Days Between LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$250,001 - $500,000",
+    "comment" : "Underlying Asset of Summa I LLC"
+  }, {
+    "rowNo" : 23,
+    "transactionDate" : "08/27/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+  }, {
+    "rowNo" : 22,
+    "transactionDate" : "08/27/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "Days Between LLC Company: Days Between LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$100,001 - $250,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+  }, {
+    "rowNo" : 21,
+    "transactionDate" : "08/27/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 9 LLC"
+  }, {
+    "rowNo" : 20,
+    "transactionDate" : "08/24/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of New Things Partners LLC"
+  }, {
+    "rowNo" : 19,
+    "transactionDate" : "08/24/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Other One LLC"
+  }, {
+    "rowNo" : 18,
+    "transactionDate" : "08/24/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Hedge Holdings LLC"
+  }, {
+    "rowNo" : 17,
+    "transactionDate" : "08/24/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Summa I LLC"
+  }, {
+    "rowNo" : 16,
+    "transactionDate" : "08/24/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of LarryMae Partners LLC"
+  }, {
+    "rowNo" : 15,
+    "transactionDate" : "08/24/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying asset of 3M's Partners LLC"
+  }, {
+    "rowNo" : 14,
+    "transactionDate" : "08/24/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+  }, {
+    "rowNo" : 13,
+    "transactionDate" : "08/24/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+  }, {
+    "rowNo" : 12,
+    "transactionDate" : "08/24/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$50,001 - $100,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+  }, {
+    "rowNo" : 11,
+    "transactionDate" : "08/24/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 9 LLC"
+  }, {
+    "rowNo" : 10,
+    "transactionDate" : "08/24/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 9 LLC"
+  }, {
+    "rowNo" : 9,
+    "transactionDate" : "08/19/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of New Things Partners LLC"
+  }, {
+    "rowNo" : 8,
+    "transactionDate" : "08/19/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Sale (Partial)",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of Other One LLC"
+  }, {
+    "rowNo" : 7,
+    "transactionDate" : "08/19/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Sale (Partial)",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of Hedge Holdings LLC"
+  }, {
+    "rowNo" : 6,
+    "transactionDate" : "08/19/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Sale (Partial)",
+    "amount" : "$50,001 - $100,000",
+    "comment" : "Underlying Asset of Summa I LLC"
+  }, {
+    "rowNo" : 5,
+    "transactionDate" : "08/19/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Sale (Partial)",
+    "amount" : "$50,001 - $100,000",
+    "comment" : "Underlying Asset of LarryMae Partners LLC"
+  }, {
+    "rowNo" : 4,
+    "transactionDate" : "08/19/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of 3M's Partners LLC"
+  }, {
+    "rowNo" : 3,
+    "transactionDate" : "08/19/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Sale (Partial)",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+  }, {
+    "rowNo" : 2,
+    "transactionDate" : "08/19/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Sale (Partial)",
+    "amount" : "$250,001 - $500,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+  }, {
+    "rowNo" : 1,
+    "transactionDate" : "08/19/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Sale (Partial)",
+    "amount" : "$100,001 - $250,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 9 LLC"
+  } ]
+}, {
+  "uuid" : "a89c0c6b-4c12-4955-98f9-3a54ca52d8a3",
+  "firstName" : "Shelley M",
+  "lastName" : "Capito",
+  "office" : "Capito, Shelley Moore (Senator)",
+  "filedDate" : "2026-11-04",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/",
+  "rows" : [ {
+    "rowNo" : 4,
+    "transactionDate" : "10/21/2026",
+    "owner" : "Spouse",
+    "ticker" : "ZTS",
+    "assetName" : "Zoetis Inc. Class A Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Full)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 3,
+    "transactionDate" : "10/21/2026",
+    "owner" : "Spouse",
+    "ticker" : "MSFT",
+    "assetName" : "Microsoft Corporation - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 2,
+    "transactionDate" : "10/21/2026",
+    "owner" : "Spouse",
+    "ticker" : "META",
+    "assetName" : "Meta Platforms, Inc. - Class A Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 1,
+    "transactionDate" : "10/21/2026",
+    "owner" : "Spouse",
+    "ticker" : "AAPL",
+    "assetName" : "Apple Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  } ]
+}, {
+  "uuid" : "b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f",
+  "firstName" : "Alan",
+  "lastName" : "Armstrong",
+  "office" : "Armstrong, Alan (Senator)",
+  "filedDate" : "2026-09-17",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/",
+  "rows" : [ {
+    "rowNo" : 4,
+    "transactionDate" : "08/20/2026",
+    "owner" : "Joint",
+    "ticker" : "WMB",
+    "assetName" : "Williams Companies, Inc. (The) Common Stock Option Type: Call Strike price: $75.00 Expires: 2026-08-21",
+    "assetType" : "Stock Option",
+    "type" : "Purchase",
+    "amount" : "$15,001 - $50,000",
+    "comment" : null
+  }, {
+    "rowNo" : 3,
+    "transactionDate" : "08/04/2026",
+    "owner" : "Joint",
+    "ticker" : null,
+    "assetName" : "Electronic Arts Inc. (EA)",
+    "assetType" : "Stock",
+    "type" : "Sale (Full)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Sale due to corporate transaction"
+  }, {
+    "rowNo" : 2,
+    "transactionDate" : "08/14/2026",
+    "owner" : "Joint",
+    "ticker" : null,
+    "assetName" : "AvalonBay Communities, Inc. Common Stock (AVB) (Exchanged) VMRK - Vivmark Residential Common Shares of Beneficial Interest (Received)",
+    "assetType" : "Stock",
+    "type" : "Exchange",
+    "amount" : "$1,001 - $15,000",
+    "comment" : null
+  }, {
+    "rowNo" : 1,
+    "transactionDate" : "08/19/2026",
+    "owner" : "Joint",
+    "ticker" : "WMB",
+    "assetName" : "Williams Companies, Inc. (The) Common Stock Option Type: Call Strike price: $75.00 Expires: 2026-08-21",
+    "assetType" : "Stock Option",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "All transactions notified to Filer on September 1, 2026"
+  } ]
+}, {
+  "uuid" : "e67780bf-56e4-46f0-a81e-574a701dd539",
+  "firstName" : "Richard",
+  "lastName" : "Blumenthal",
+  "office" : "Blumenthal, Richard (Senator)",
+  "filedDate" : "2026-10-26",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/",
+  "rows" : [ {
+    "rowNo" : 32,
+    "transactionDate" : "10/07/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of Summa I LLC"
+  }, {
+    "rowNo" : 31,
+    "transactionDate" : "09/21/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Summa I LLC"
+  }, {
+    "rowNo" : 30,
+    "transactionDate" : "10/07/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Other One LLC"
+  }, {
+    "rowNo" : 29,
+    "transactionDate" : "10/07/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of New Things Partners LLC"
+  }, {
+    "rowNo" : 28,
+    "transactionDate" : "09/22/2026",
+    "owner" : "Spouse",
+    "ticker" : "STLN",
+    "assetName" : "Starling Oncology, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Magnifique LLC. Name change – previously reported as Oncology Institute, Inc. (TOI)."
+  }, {
+    "rowNo" : 27,
+    "transactionDate" : "09/18/2026",
+    "owner" : "Spouse",
+    "ticker" : "STLN",
+    "assetName" : "Starling Oncology, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Magnifique LLC. Name change – previously reported as Oncology Institute, Inc. (TOI)."
+  }, {
+    "rowNo" : 26,
+    "transactionDate" : "10/07/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of LarryMae Partners LLC"
+  }, {
+    "rowNo" : 25,
+    "transactionDate" : "09/22/2026",
+    "owner" : "Spouse",
+    "ticker" : "STLN",
+    "assetName" : "Starling Oncology, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of LarryMae Partners LLC. Name change – previously reported as Oncology Institute, Inc. (TOI)."
+  }, {
+    "rowNo" : 24,
+    "transactionDate" : "09/21/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of LarryMae Partners LLC"
+  }, {
+    "rowNo" : 23,
+    "transactionDate" : "09/18/2026",
+    "owner" : "Spouse",
+    "ticker" : "STLN",
+    "assetName" : "Starling Oncology, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of LarryMae Partners LLC. Name change – previously reported as Oncology Institute, Inc. (TOI)."
+  }, {
+    "rowNo" : 22,
+    "transactionDate" : "10/07/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of Hedge Holdings LLC"
+  }, {
+    "rowNo" : 21,
+    "transactionDate" : "09/23/2026",
+    "owner" : "Spouse",
+    "ticker" : "STLN",
+    "assetName" : "Starling Oncology, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Hedge Holdings LLC. Name change – previously reported as Oncology Institute, Inc. (TOI)."
+  }, {
+    "rowNo" : 20,
+    "transactionDate" : "09/22/2026",
+    "owner" : "Spouse",
+    "ticker" : "STLN",
+    "assetName" : "Starling Oncology, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of Hedge Holdings LLC. Name change – previously reported as Oncology Institute, Inc. (TOI)."
+  }, {
+    "rowNo" : 19,
+    "transactionDate" : "09/21/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Hedge Holdings LLC"
+  }, {
+    "rowNo" : 18,
+    "transactionDate" : "09/18/2026",
+    "owner" : "Spouse",
+    "ticker" : "STLN",
+    "assetName" : "Starling Oncology, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of Hedge Holdings LLC. Name change – previously reported as Oncology Institute, Inc. (TOI)."
+  }, {
+    "rowNo" : 17,
+    "transactionDate" : "10/07/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$50,001 - $100,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 9 LLC"
+  }, {
+    "rowNo" : 16,
+    "transactionDate" : "09/22/2026",
+    "owner" : "Spouse",
+    "ticker" : "STLN",
+    "assetName" : "Starling Oncology, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 9 LLC. Name change – previously reported as Oncology Institute, Inc. (TOI)."
+  }, {
+    "rowNo" : 15,
+    "transactionDate" : "09/21/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 9 LLC"
+  }, {
+    "rowNo" : 14,
+    "transactionDate" : "09/18/2026",
+    "owner" : "Spouse",
+    "ticker" : "STLN",
+    "assetName" : "Starling Oncology, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 9 LLC. Name change – previously reported as Oncology Institute, Inc. (TOI)."
+  }, {
+    "rowNo" : 13,
+    "transactionDate" : "10/07/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$100,001 - $250,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+  }, {
+    "rowNo" : 12,
+    "transactionDate" : "09/24/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "ZdP Investments Fund I, LP Company: ZdP Investments Fund I, LP (Palo Alto, CA) Description: Private Equity Fund",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+  }, {
+    "rowNo" : 11,
+    "transactionDate" : "09/23/2026",
+    "owner" : "Spouse",
+    "ticker" : "STLN",
+    "assetName" : "Starling Oncology, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 2000 LLC. Name change – previously reported as Oncology Institute, Inc. (TOI)."
+  }, {
+    "rowNo" : 10,
+    "transactionDate" : "09/22/2026",
+    "owner" : "Spouse",
+    "ticker" : "STLN",
+    "assetName" : "Starling Oncology, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 2000 LLC. Name change – previously reported as Oncology Institute, Inc. (TOI)."
+  }, {
+    "rowNo" : 9,
+    "transactionDate" : "09/21/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+  }, {
+    "rowNo" : 8,
+    "transactionDate" : "09/21/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "GCP Captivate Secondary LP Company: Captivate Network (New York, NY) Description: Media Company",
+    "assetType" : "Other",
+    "type" : "Sale (Full)",
+    "amount" : "$500,001 - $1,000,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+  }, {
+    "rowNo" : 7,
+    "transactionDate" : "09/18/2026",
+    "owner" : "Spouse",
+    "ticker" : "STLN",
+    "assetName" : "Starling Oncology, Inc. - Common Stock",
+    "assetType" : "Stock",
+    "type" : "Sale (Partial)",
+    "amount" : "$15,001 - $50,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 2000 LLC. Name change – previously reported as Oncology Institute, Inc. (TOI)."
+  }, {
+    "rowNo" : 6,
+    "transactionDate" : "09/17/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "A-IC, a series of A-ST Opportunity Funds LLC Company: Intercom, Inc (New York, NY) Description: Messaging Software",
+    "assetType" : "Other",
+    "type" : "Sale (Full)",
+    "amount" : "$50,001 - $100,000",
+    "comment" : "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+  }, {
+    "rowNo" : 5,
+    "transactionDate" : "09/21/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+  }, {
+    "rowNo" : 4,
+    "transactionDate" : "10/07/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+  }, {
+    "rowNo" : 3,
+    "transactionDate" : "09/23/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "ZdP Investments Fund I, LP Company: ZdP Investments Fund I, LP (Palo Alto, CA) Description: Private Equity Fund",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+  }, {
+    "rowNo" : 2,
+    "transactionDate" : "10/07/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of 3M's Partners LLC"
+  }, {
+    "rowNo" : 1,
+    "transactionDate" : "09/23/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "ZdP Investments Fund I, LP Company: ZdP Investments Fund I, LP (Palo Alto, CA) Description: Private Equity Fund",
+    "assetType" : "Other",
+    "type" : "Purchase",
+    "amount" : "$1,001 - $15,000",
+    "comment" : "Underlying Asset of 3M's Partners LLC"
+  } ]
+}, {
+  "uuid" : "e67c6e56-c81e-4e74-b960-849a460165e2",
+  "firstName" : "Angus S",
+  "lastName" : "King, Jr.",
+  "office" : "King, Angus (Senator)",
+  "filedDate" : "2026-09-14",
+  "amendment" : false,
+  "paper" : false,
+  "url" : "/search/view/ptr/e67c6e56-c81e-4e74-b960-849a460165e2/",
+  "rows" : [ {
+    "rowNo" : 1,
+    "transactionDate" : "08/05/2026",
+    "owner" : "Spouse",
+    "ticker" : null,
+    "assetName" : "EA - Electronic Arts Inc",
+    "assetType" : "Stock",
+    "type" : "Sale (Full)",
+    "amount" : "$15,001 - $50,000",
+    "comment" : null
+  } ]
+} ]

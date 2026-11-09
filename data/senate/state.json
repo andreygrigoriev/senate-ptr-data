@@ -1,7 +1,7 @@
 {
-  "lastRunAt" : "2026-11-02T16:00:11.092158328Z",
-  "lastSuccessAt" : null,
-  "error" : "EfdUnavailableException: eFD answered 403 for /search/home/",
+  "lastRunAt" : "2026-11-09T16:26:29.925328392Z",
+  "lastSuccessAt" : "2026-11-09T16:26:29.925328392Z",
+  "error" : null,
   "backfilledFrom" : null,
-  "filings" : 0
+  "filings" : 16
 }
